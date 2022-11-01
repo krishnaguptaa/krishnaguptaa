@@ -1,4 +1,3 @@
--                                                   Hi there, I'm Krishna 
 - 👋 Hi, I’m @krishnaguptaa
 - 👀 I’m interested in Java Fullstack Development.
 - 🌱 I’m currently learning Java FullStack.
